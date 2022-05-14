@@ -1,5 +1,5 @@
 package com.devsuperior.dsmovie.entities;
-//
+
 import java.util.HashSet;
 import java.util.Set;
 
